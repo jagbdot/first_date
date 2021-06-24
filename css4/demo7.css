@@ -1,0 +1,21 @@
+body {
+    font-family: inter, gill-sans-nova, sans-serif;
+    background-image: url(../img/7.png);
+    font-weight: 500;
+    font-size: 0.85rem;
+    --color-link: #D5D5D2;
+}
+
+.screen {
+	text-transform: uppercase;
+}
+
+.content__title {
+    font-size: 8vw;
+    font-weight: 900;   
+}
+
+.content__credits {
+    color: #FBFBF8;
+    line-height: 17px;
+}

@@ -240,6 +240,15 @@ a:focus {
 	text-align: center;
 }
 
+@media screen and (min-width: 1800px) {
+
+	.content__credits {
+	    margin: 8rem 0;
+	    max-width: 42rem;
+	    text-align: center;
+	}
+}
+
 .screen {
 	position: fixed;
 	top: 0;
@@ -250,6 +259,8 @@ a:focus {
 	background: var(--color-bg);
 	z-index: 1600;
 }
+
+
 
 .screen--grid {
 	display: grid;
